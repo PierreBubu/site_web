@@ -1,0 +1,42 @@
+p {
+}
+
+#menu {
+    margin: 0 ;
+    padding: 0 ;
+    list-style: none ;
+    text-align: center ;
+}
+
+#menu li {
+    display: inline ;
+    margin-right: 1px;
+    color: White ;
+    background: #0000FF ;
+}
+
+#menu li a {
+    padding: 4px 20px ;
+    background: #478ad8 ;
+    border : 1px solid #600;
+    font: 1em "Trebuchett MS", Arial, sans-serif ;
+    line-height: 1em;
+    text-align: center ;
+    text-decoration: none ;
+    color: White ;
+}
+
+#menu li a:active, #menu li a:focus, #menu li a:hover {
+    background: #0000FF ;
+    text-decoration: none ;
+    color: White ;
+}
+
+#logo {
+    background: #FFFFFF;
+    text-align: center ;
+}
+
+#logo img{
+    width: 500px ;
+}

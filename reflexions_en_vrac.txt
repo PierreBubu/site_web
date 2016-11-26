@@ -1,0 +1,59 @@
+### Idées un peu en vrac pour cadrer le développement du site Internet de 
+@JoelDiaz. Le classement d'importance est entre crochets ex : [très basse]
+
+1) [TRES HAUTE] Il est important avant de se lancer de se renseigner sur les aspects de sa profession qu'il veut exposer. Je suis pas maçon moi-même donc j'en sais
+rien. Je ne sais même pas ce qu'il fait précisément dans toutes les activités
+possibles.
+
+2) [MOYENNE] Dans toutes les activités exercées par les Diaz, il va falloir en
+mettre certaines en avant : ce qu'ils font le mieux, ce qu'ils sont les seuls
+à faire ou ce qui leurt plaît le plus. Cela doit contribuer à établir un fil 
+conducteur pour la navigation dans le site
+
+3) [HAUTE] Réaliser le plan du site
+
+4) [HAUTE +] Réaliser un premier maquettage (dessin) de ce qu'on veut comme
+présentation du site. Ce n'est pas possible de se lancer à l'aveugle sans savoir
+ce qu'on veut à la fin. A tes crayons de couleur bichette.
+
+5) [MOYENNE] Choisir une identité visuelle cohérente pour le site. En plus
+du maquettage qui va poser les bases, il y aura certainement des retouches 
+à faire (Équilibre des couleurs, recherche de photos, autres) pour coller
+au fil conducteur défini.
+
+
+#### FIN DES CONSIDERATIONS D'ORDRE GENERAL ####
+
+#### DEFINITION DES EXIGENCES POUR LE SITE  ####
+
+On peut apporter différents niveaux de raffinement au site, les voici présentés comme des étapes. On peut voir ça comme différents stades d'évolution du site à partir de sa mise en ligne
+
+    I/ Le site est une simple vitrine : il présente l'entreprise Diaz, leurs
+compétences, leurs réalisation, les moyens de les contacter.
+
+    II/ Le site incorpore un système de news pour permettre au Joel de communiquer
+sur ses réalisations, les avancées de chantier ou toute autre information
+qu'il peut juger utile (à la manière d'un blog). Pour quelqu'un qui n'y connaît
+pas grand chose en informatique, cette partie est ardue pour le développeur
+car il faut élaborer un système  simple (à la wordpress) permettant
+à l'utilisateur d'ajouter facilement du contenu.
+    
+    III/ Le site est tellement trop bien qu'il permet de prendre RDV pour un devis en ligne ??
+
+
+L'étape I/ est donc un minimum et il faut préciser un peu avec le Joël si ce
+qui nous vient à l'idée correspond à ses attentes. Je vais écrire un document
+plus propre que ça qui récapitule ce que je vais essayer de faire. Si pour lui il y a des oublis, des trucs pas clairs, il FAUT qu'il le signale.
+
+Parallèlement, le travail qui sera demandé au Joël c'est d'écrire les parties qui présentent son activité. C'est pas quelque chose qu'on pourra faire
+
+Parallèlement, le travail qui sera demandé au Joël c'est d'écrire les parties
+qui présentent son activité. C'est pas quelque chose qu'on pourra faire à
+sa place, ce qu'on fera c'est la mise en forme.
+
+#### IDEE FIL DE LECTURE ###
+
+Mon idée est de mettre l'accent sur le côté entreprise familiale (ça se valorise de plein de façon, même en maçonnerie.
+Le deuxième truc je pense est de mettre l'accent sur la rénovation de vieilles
+maisons. Je ne sais pas si c'est leur activité principale, mais les résultats sont vraiment beaux en général, et ça met en valeur pas mal de savoir-
+-faire technique.

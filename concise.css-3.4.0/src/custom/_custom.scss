@@ -1,0 +1,88 @@
+//
+// <Project name>
+// Diaz website
+// =============================================================================
+
+body {
+    background: #FDF7CF;
+}
+
+p {
+    color: black;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#menu {
+    margin: 5px ;
+    padding: 0 ;
+    list-style: none ;
+    text-align: center ;
+}
+
+#menu li {
+    display: inline-block;
+    width : 15%;
+    line-height: 3em;
+    margin-right: 1px;
+    color: White ;
+    background: #0000FF ;
+}
+
+#menu li a {
+    display: inline-block;
+    padding: 4px 20px ;
+    width : 100%;
+    background: #478ad8 ;
+    border : 1px solid #600;
+    font: 1em "Trebuchett MS", Arial, sans-serif ;
+    line-height: 3em;
+    text-align: center ;
+    text-decoration: none ;
+    color: White ;
+}
+
+#menu li a:active, #menu li a:focus, #menu li a:hover {
+    background: #0000FF ;
+    text-decoration: none ;
+    color: White ;
+}
+
+#logo {
+    background: #FDF7CF; 
+    text-align: center;
+    border: 5px;
+}
+
+#logo img{
+    width: 500px ;
+}
+
+#img_presentation {
+    background: #FDF7CF; 
+    text-align: center ;
+    margin-bottom: 2px;
+}
+
+#img_presentation img{
+    width: 650px; 
+    margin-bottom : 5px;
+}
+
+#footer {
+    width: 100% ;
+    border : 1px solid #600;
+    line-height: 3em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+#footer li{
+    display: inline-block;
+    width: 20%;
+    margin-right: 5%;
+    text-align: center;
+    color: #478ad8;
+}
