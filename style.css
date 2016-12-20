@@ -1,5 +1,9 @@
 .diaporama{
+	list-style-type:none;
+    margin-left:0;
+    padding-left:0;
     display:inline-block;
+    text-align:center;
     vertical-align: middle;
 	position:relative;
 	width:512px;
@@ -8,7 +12,9 @@
 
 .diaporama li{
 	list-style-type:none;
-    vertical-align: middle;
+    margin-left:0;
+    padding-left:0;
+    /*vertical-align: middle;*/
 	position:absolute;
     overflow: hidden;
     text-align: center;
