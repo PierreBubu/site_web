@@ -1,28 +1,38 @@
 .diaporama{
+    display:inline-block;
+    vertical-align: middle;
 	position:relative;
 	width:512px;
-	height:288px
+	height:288px;
 }
 
 .diaporama li{
 	list-style-type:none;
+    vertical-align: middle;
 	position:absolute;
     overflow: hidden;
+    text-align: center;
 }
 
 .diaporama_controls{
+    display:inline-block;
+    vertical-align: middle;
 	width:512px;
 	margin:3px 0;
 	padding:5px;
 	clear:both;
     overflow: hidden;
+    text-align: center;
+    /*margin-left: 35%;*/
 }
 
 .diaporama_controls .btns{
-    float: right;
+    /* float: right; */
+    text-align: center;
 }
 
 .diaporama_controls a{
+    outline:none;
 	font-weight:normal;
 	width:10px;
 	height:13px;

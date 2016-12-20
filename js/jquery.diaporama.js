@@ -26,7 +26,7 @@
 				
 				if(options.controls)
 				{
-					$(obj).after("<div class='diaporama_controls'><div class='btns'><a href='#' class='prev'>Prec.</a> <a href='#' class='pause'>Pause</a> <a href='#' class='next'>Suiv.</a></div></div>");
+					$(obj).after("<br><div class='diaporama_controls'><div class='btns'><a href='#' class='prev'>Prec.</a> <a href='#' class='pause'>Pause</a> <a href='#' class='next'>Suiv.</a></div></div>");
 					
 					$(obj).siblings().find(".prev").click(function(){
 						clearInterval(inter);
