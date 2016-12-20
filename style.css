@@ -6,18 +6,20 @@
 
 .diaporama li{
 	list-style-type:none;
-	position:absolute
+	position:absolute;
+    overflow: hidden;
 }
 
 .diaporama_controls{
 	width:512px;
-	margin:7px 0;
-	padding:10px;
+	margin:3px 0;
+	padding:5px;
 	clear:both;
+    overflow: hidden;
 }
 
 .diaporama_controls .btns{
-	float:right;
+    float: right;
 }
 
 .diaporama_controls a{

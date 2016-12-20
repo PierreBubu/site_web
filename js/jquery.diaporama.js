@@ -3,7 +3,7 @@
 
 		var defaults = {
 			delay: 3,
-			animationSpeed: "normal",
+			animationSpeed: "slow",
 			controls:true
 		};
 				

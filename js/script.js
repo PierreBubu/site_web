@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	$(".diaporama").diaporama({
 		animationSpeed: "slow",
-		delay:2
+		delay:3
 	});
 
 });
