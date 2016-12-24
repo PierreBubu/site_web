@@ -27,14 +27,14 @@ p {
     line-height: 3em;
     margin-right: 1px;
     color: White ;
-    background: #0000FF ;
+    background: #3B3BF9;
 }
 
 #menu li a {
     display: inline-block;
     padding: 4px 20px ;
     width : 100%;
-    background: #478ad8 ;
+    background: #5BABD9;
     border : 1px solid #600;
     font: 1em "Trebuchett MS", Arial, sans-serif ;
     line-height: 3em;
@@ -44,7 +44,7 @@ p {
 }
 
 #menu li a:active, #menu li a:focus, #menu li a:hover {
-    background: #0000FF ;
+    background: #3B3BF9 ;
     text-decoration: none ;
     color: White ;
 }
